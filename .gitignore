@@ -1,3 +1,1 @@
-node_modules/*
-!node_modules/synth*
-!node_modules/core
+node_modules
